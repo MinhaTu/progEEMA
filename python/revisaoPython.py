@@ -4,7 +4,7 @@ declarar as variáveis, nem mesmo dizer seus respectivos tipos,
 o interpretador identifica automaticamente '''
 
  #não é necessário uso de ; nem {}
- #a identação é crucial em Python
+ #a indentação é crucial em Python
 
 
 '''ATRIBUIÇÃO DE VARIÁVEIS'''
